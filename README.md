@@ -1,4 +1,4 @@
-# Final Project Plan: Kaggle ML and Data Science Survey
+# Final Project Plan: Kaggle ML and Data Science Survey Analysis
 
 Click [Kaggle ML and Data Science Survey, 2017](https://www.kaggle.com/kaggle/kaggle-survey-2017) to see the overview of this survey in Kaggle's main page.
 
