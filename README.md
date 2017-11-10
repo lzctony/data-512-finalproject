@@ -11,3 +11,4 @@ Released UnderDatabase: [Open Database](http://opendatacommons.org/licenses/odbl
 For more information about Kaggle please see [Terms](https://www.kaggle.com/terms) and [Privacy](https://www.kaggle.com/about/privacy)
 
 ## Please see the jupyter notebook for the full description.
+[Click here](https://github.com/lzctony/data-512-finalproject/blob/master/Final%20Project%20Plan.ipynb)
